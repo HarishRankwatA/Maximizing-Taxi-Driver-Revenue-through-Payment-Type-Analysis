@@ -42,4 +42,4 @@ Using **Python, Exploratory Data Analysis (EDA), and Hypothesis Testing**, I ana
 Clone this repo and install dependencies:
 ```bash
 pip install -r requirements.txt
-jupyter notebook project1.ipynb
+jupyter notebook project.ipynb
